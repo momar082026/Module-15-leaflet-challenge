@@ -11,8 +11,8 @@ Module-15-Leaflet-Challenge
 │
 └─js
 logic.js
-│ .gitignore
 │ index.html
+│ .gitignore
 │ LICENSE
 │ README.md
 
